@@ -1,4 +1,4 @@
-# Face-Recognition-Login-System
+# Password-less-authentication-System
 
 It's a Password-less-authentication-System which is developed using Python Tkinter, MySQL database and Twilio.
 
@@ -43,9 +43,9 @@ INSERT INTO admin (username,password) VALUES ('your_username','your_password');
 
 8. Please ensure that images are placed in the 'Images' folder with filenames corresponding to the UID.
 
-9. Credentials.py File Should Look like this (You need to create One)
+9. credentials.py File Should Look like this (You need to create One)
 
-## Credentials (You must put your own credentials here)
+## Credentials.py (You must put your own credentials here)
 
 ```python
 host = 'localhost'
