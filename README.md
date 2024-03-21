@@ -45,7 +45,7 @@ INSERT INTO admin (username,password) VALUES ('your_username','your_password');
 
 9. Credentials.py File Should Look like this (You need to create One)
 
-   # Credentials (You must put your own credentials here)
+   ** Credentials (You must put your own credentials here) **
 
    host = 'localhost'
    username = 'Admin-SQL-Username'
