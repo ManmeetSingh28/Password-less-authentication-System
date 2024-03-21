@@ -42,3 +42,18 @@ INSERT INTO admin (username,password) VALUES ('your_username','your_password');
 7. After completing the preceding steps, please proceed by installing the required dependencies using the provided requirements file (requirements.txt). Once installed, you can execute the main.py file to run the application.
 
 8. Please ensure that images are placed in the 'Images' folder with filenames corresponding to the UID.
+
+9. Credentials.py File Should Look like this (You need to create One)
+
+   # Credentials (You must put your own credentials here)
+
+   host = 'localhost'
+   username = 'Admin-SQL-Username'
+   password = 'Admin-SQL-Password'
+
+   database = 'employee_management'
+
+   Account_SID = "Twilio SID"
+   Auth_Token = "Twilio Token"
+
+   Twilio_Number = "Twilio Number"
